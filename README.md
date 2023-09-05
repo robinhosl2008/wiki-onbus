@@ -3,9 +3,7 @@
 </p>
 
 
-<p align="center" font-size="20">
-  wiki-onbus
-</p>
+<h1 align="center">wiki-onbus</h1>
 
 
 ## Requisitos do Sistema
