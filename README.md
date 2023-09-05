@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: [[Rv8B1wQMygcegUIARCvAQ](https://yt3.googleusercontent.com/ytc/AOPolaSkoN-fTrFaAJ7DVBjyNxW16NZ4n-I3I4He0PUr=s176-c-k-c0x00ffffff-no-rj)https://yt3.googleusercontent.com/ytc/AOPolaSkoN-fTrFaAJ7DVBjyNxW16NZ4n-I3I4He0PUr=s176-c-k-c0x00ffffff-no-rj] "Logo onbus"
+[logo]: https://yt3.googleusercontent.com/ytc/AOPolaSkoN-fTrFaAJ7DVBjyNxW16NZ4n-I3I4He0PUr=s176-c-k-c0x00ffffff-no-rj "Logo onbus"
 
 
 
