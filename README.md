@@ -3,7 +3,7 @@
 </p>
 
 
-<p style="align: center; font-size: 20px;">
+<p align="center" font-size="20">
   wiki-onbus
 </p>
 
