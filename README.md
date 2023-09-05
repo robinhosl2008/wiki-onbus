@@ -3,9 +3,9 @@
 </p>
 
 
-
-# wiki-onbus
-
+<p align="center">
+  # wiki-onbus
+</p>
 
 
 ## Requisitos do Sistema
