@@ -3,8 +3,8 @@
 </p>
 
 
-<p align="center">
-  <h1>wiki-onbus</h1>
+<p style="align: center; font-size: 20px;">
+  wiki-onbus
 </p>
 
 
